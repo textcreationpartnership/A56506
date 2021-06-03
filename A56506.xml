@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Flagitiosus Mercurius flagellatus, or, The whipper whipp'd being an answer to a scurrilous invective written by George Parker in his Almanack for MDCXCVII : in such language and base expressions that none but a bended mechanick would be seen to own, and this without any provocation given by me.</title>
+            <author>Partridge, John, 1644-1715.</author>
+         </titleStmt>
+         <extent>Approx. 72KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56506</idno><idno type="EEBO-CITATION">12033730</idno>
+  <idno type="VID">52837</idno>
+  <idno type="EEBO-PROQUEST">2240961255</idno>
+  
+            <idno type="STC">Wing P618</idno>
+            <idno type="STC">ESTC R26179</idno>
+            <idno type="OCLC">12033730</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52837)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 573:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Flagitiosus Mercurius flagellatus, or, The whipper whipp'd being an answer to a scurrilous invective written by George Parker in his Almanack for MDCXCVII : in such language and base expressions that none but a bended mechanick would be seen to own, and this without any provocation given by me.</title>
+                  <author>Partridge, John, 1644-1715.</author>
+                  <author>Partridge, John, 1644-1715. Defectio genitvranvm.</author>
+               </titleStmt>
+               <extent>20 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Appended to his Defectio geniturarum. 1697.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Parker, George, 1654-1743. --  Mercurius Angli-canus ... 1697.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="rebuttal">
+            <div n="1" type="part">
+               <pb facs="tcp:52837:1"/>
+               <pb n="1" facs="tcp:52837:1"/>
+               <head>
+                  <hi>Flagitiosus Mercurius Flagellatus:</hi> OR THE <hi>Whipper Whipp'd:</hi> Being an Answer to a SCURRILOUS INVECTIVE Written by <hi>George Parker</hi> in his Alma<g ref="char:EOLhyphen"/>nack for MDCXCVII.</head>
+               <head type="sub">In such Language and base Expressions that none but a <hi>Bended Mechanick</hi> would be seen to own; and this without any Provocation given by me.</head>
+               <p>THE pretended ground of this Quarrel is to inform us, That he is able to shew in all cases the beginning of a Directi<g ref="char:EOLhyphen"/>on's Operation to a few days; and this in opposition to what I say of the Lady's Direction in 1696. But by the management of the whole, there is something else at the Bot<g ref="char:EOLhyphen"/>tom, and therefore take it right.</p>
+               <p>The truth of all is, to be plain both with you and him; He is <hi>Poor</hi> and <hi>Infamous, Despicable</hi> in his <hi>Person, Ill-natur'd</hi> and <hi>Sawcy</hi> in his Conversation. <hi>Unjust</hi> in his Dealings, <hi>Immoral</hi> in his Behaviour, <hi>Weak</hi> in his Understand<g ref="char:EOLhyphen"/>ing, <hi>Ignorant</hi> in his Professions; and wanting <hi>Parts, Prudence, Virtue</hi> and <hi>Honesty,</hi> finds he hath no other way to recommend himself to the World to be taken notice of, but by quarrelling with some body or other, no mat<g ref="char:EOLhyphen"/>ter whether they give him any occasion or not. And knowing this to be
+<pb n="2" facs="tcp:52837:2"/> the Truth of the Case, I will certainly give him a cast of my Office, and do the most and best I can to make my hard-fac'd Adversary famous.</p>
+               <lg>
+                  <l>This is not St. <hi>George,</hi> of whom the Boys sing,</l>
+                  <l>Nor General <hi>George,</hi> that brought in the King;</l>
+                  <l>But <hi>George</hi> the <hi>Petit,</hi> that hangs out his Banners,</l>
+                  <l>Declares against <hi>Honesty, Wit</hi> and <hi>Good Manners.</hi>
+                  </l>
+               </lg>
+               <q>Answer a Fool according to his Folly, lest he be wise in his own Conceit.</q>
+               <p>The very first thing my Adversary tells his Reader, is a notorious Un<g ref="char:EOLhyphen"/>truth; for, he says, I demand a Direction for her Death: Which is false, for I have named one; and desire them, and him too now, To give us a true measure of Time, that may agree in that, as well as in all other cases. And how much he hath done it, will appear hereafter; but for trifling and evading you must not be angry with him, he hath <hi>Mercury</hi> in Opposition to <hi>Jupiter,</hi> and <hi>Saturn</hi> on his Ascendent, which gives him a hard brawny Face.</p>
+               <p>In the next place he would have the World believe, That he was the man aimed at (as he expresseth it) in that Example; as supposing none more able nor eminent than himself to be pointed at in that case: When, to say the truth, he is the most <hi>Ignorant</hi> and <hi>Illiterate man</hi> of all that do pretend to <hi>Astrology</hi> in Print. And all he prints you will find is either begg'd or stoln, if you will but trace him (of which more hereafter.) I do not indeed know any body that takes notice of him, unless it be to <hi>laugh at his ill manners,</hi> and <hi>pity his Poverty.</hi> In a word, I conclude this Conceit to be like the Fly on the Coach-wheel, that cry'd out, <hi>Oh: what a Dust I make!</hi> And you may be certain he sits easy that rides on a <hi>Hobby<g ref="char:EOLhyphen"/>horse</hi> of his own making.</p>
+               <p>He seems very angry, That I call him and the rest, <hi>Pretenders</hi> to the Art, as supposing himself pointed at, no doubt: here you may see not only his <hi>Folly,</hi> but his <hi>Pride</hi> and <hi>Ignorance</hi> too; for he doth arrogantly imagine him<g ref="char:EOLhyphen"/>self to be arrived to the degree of a Master, when indeed he hath no more Skill nor Experience than the man that began but yesterday, as you may see by his Almanack of 1696. where this great Master of Nativities was not able to furnish us with a more noble Experiment to iilustrate the Truth and Power of his Stars, than that poor, sorry, lousy Question of one <hi>Morgan Bourn</hi> that was hanged; and yet the Question was not propounded to him neither, but to one in <hi>Houndsditch,</hi> the better able of the two to give Judgment: So that it was but a borrowed business at the best, and no thanks to his Skill. Let him shew us something of his own, without beg<g ref="char:EOLhyphen"/>ging and borrowing as he hath done hitherto; his Almanack is made fine, like a Common Whore, by the help of twenty Brokers Shops; if every one should come and pluck out his own Feather, there would not be mat<g ref="char:EOLhyphen"/>ter of his own left to fill a Horn-Book. And after all, I must tell this <hi>weak-headed man.</hi> That I do not think my self got above the Character of a Pretender, after more Reading and Experience than ever he will be master of, or attain to; for his <hi>Mercury</hi> is not for Study, but something else, which
+<pb n="3" facs="tcp:52837:2"/> you shall hear by and by. And with this proud conceit he tells his Reader, That <hi>he will undeceive</hi> those that are perverted by <hi>Ptolemy</hi>'s <hi>Doctrine.</hi> But pray Sir, Who are your Brethren Astrologers, you mention, that you are Advocate for? I suppose they will at last appear to be in the singular number only; that is, one <hi>knavish Pickpocket Sigil-maker;</hi> you do well to put it in the plural, like Sir <hi>T. M.</hi> when he subscribed a Warrant, <hi>We the Knights and Gentlemen,</hi> and no body▪ there but himself. I doubt your Brethren have made use of you as the Monkey did of the Cat's Foot.</p>
+               <p>And now, my <hi>Mountebank Conjurer</hi> comes to his great point of Skill, and that is, To prove the Lady's Death, and the time of it, by <hi>Kepler</hi>'s way of Direction: And this he pretends to do to a very few days, and then vainly boasteth of its exactness, which men of Skill durst never pretend to in any Direction, unless by chance; for I never desire a Direction to hit nearer than 4 or 6 months; and for the time of its inception, I take it from other Causes. And so I come to examine this Idle Mystery, to pre<g ref="char:EOLhyphen"/>vent the young Students being trepan'd by the Bounces of this Fellow con<g ref="char:EOLhyphen"/>cerning the Truth of a method that he hath had no experience of; but gives it them on his Word, as <hi>Tom Street</hi> gave it him, and neither of their Words worth two pence.</p>
+               <p>
+                  <hi>John Kepler</hi> was a witty man, and an Enemy to Astrology, and in a lit<g ref="char:EOLhyphen"/>tle Treatise he called the <hi>New Year's Gift to Astrologers,</hi> he propounds this way to direct by, which this weak man useth, to puzzle and confound them, not believing any man would be so foolish as to rely on it, and use it for Truth; nor did he himself: Nor did I ever hear that <hi>Kepler</hi> did pre<g ref="char:EOLhyphen"/>tend to any more Skill in Astrology than what is commonly known to every common Student; so let us consider it.</p>
+               <p>The Ground of this method of Direction, as well as its Measure, is lodg<g ref="char:EOLhyphen"/>ed in the <hi>Sun</hi>'s motion, and so counting from the Day of the Birth, to the degree (the <hi>Sun</hi> meets in his way) of any Aspect, it shall give so many Years, <hi>&amp;c.</hi> as the <hi>Sun</hi> is days going to that degree by his diurnal Motion. Had <hi>Kepler</hi> slopt here, it would have been a good measure, with a little Im<g ref="char:EOLhyphen"/>provement for all Directions; but in going further he hath done like a Monkey, the more he shews his Tricks, the more he shews his Tail. For he comes now to that improbable and most unreasonable Proposition, To make the <hi>Sun</hi>'s Diurnal Motion in the Zodiack, the Motion of Direction for the <hi>Midheaven, Ascendent, Moon,</hi> and <hi>Part of Fortune,</hi> and this without regard to the Part of Heaven, or Signs of long and short Ascention; and that I may make it plain to the Astrological Reader, I will give you an Example or two, as followeth.</p>
+               <p>To that end let us suppose a Figure, where 15 degrees of <hi>Pisces</hi> ascends, in the Latitude of <hi>London;</hi> let the <hi>Sun</hi> be in 2 degrees of <hi>Aquary,</hi> the <hi>Moon</hi> in 2 degrees of <hi>Aries,</hi> with 5 degrees North Latitude, and <hi>Saturn</hi> in 28 de<g ref="char:EOLhyphen"/>grees of <hi>Scorpio.</hi> Now by <hi>Kepler</hi>'s way, the <hi>Sun</hi> comes to the Square of <hi>Saturn</hi> in 25 years and a few months; the <hi>Moon,</hi> by the same Rule, to the Opposition of <hi>Saturn</hi> in 55 years and a few months; and the Ascendent to the Body of the <hi>Moon</hi> at 16 years and 8 months. The reason for this, in their Foolish Idle Way is, Because the <hi>Sun</hi> then move<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 61 minutes in a day, and by consequence gives a year; therefore the <hi>Moon</hi> and Ascendent
+<pb n="4" facs="tcp:52837:3"/> must move no faster through the Signs than the <hi>Sun</hi> doth▪ and for every 61 minutes of such motion they allow a year likewise. The same method they use also in the Midheaven and <hi>Part of Fortune.</hi>
+               </p>
+               <p>Now by the true, visible and natural Motion, the <hi>Moon</hi> by her Latitude is on the Ascendent, just rising, which they tell you is at least 16 degrees distant. The <hi>Moon</hi> comes to the Opposition of <hi>Saturn</hi> about 30 years af<g ref="char:EOLhyphen"/>ter: And the <hi>Sun</hi> to the Square of <hi>Saturn</hi> 17 years; and this by that mo<g ref="char:EOLhyphen"/>tion demonstrable on the Globe, and plainly to be proved by the Tables of Oblique Ascention; and by that Motion and no other all Directions are formed. Whence it is visible that there is no such motion in nature as this Fellow pretends to in the <hi>Ascendent, Moon, Midheaven,</hi> and <hi>Part of Fortune.</hi> Whence it is also plain, he is trying to delude and seduce Mankind into the Belief of an impossible Motion in Direction by his Confidence, <hi>&amp;c.</hi> without having any experience, only hear-say, or taking time (if he is able) to examine it. The Fellow would be an Imposture, had he but good Stars; but he may set his heart at rest, the<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e are but few will either be<g ref="char:EOLhyphen"/>lieve or admire him, except it be some of his own Tribe, and as well grown in Reputation, <hi>Squires of Alsatin.</hi> Which leads me now to enquire into the Merits of the Cause, and what ground there is in Nature for this pretended motion.</p>
+               <p>The <hi>Sun</hi> (it is true) hath such a motion as they pretend to, and may be allowed; all they say in one sense, <hi>i. e.</hi> in secondary Directions, which I allow, and in no other. But alas, the motion of the <hi>Sun</hi> can only answer for it self, and shew its own Accidents and Qualifications in his way of Direction; but by no means prescribe a way for the <hi>Moon.</hi> The <hi>Moon</hi> moves in a different Orb, her Diurnal motion is proper to her self and none else; she hath Latitude and other Accidents, not liable to the <hi>Sun;</hi> her diurnal motion is from 12 to 15 degrees in a day; her rapt motion is the same with the rest, round the Globe in 24 hours. But here is no such) motion as he pretends to, of 61 minutes in a day, to bring up that Direction of the <hi>Moon</hi> to the Opposition of <hi>Saturn</hi> at 55 years, as in the Example before. And I challenge any man that pretends to this Foolery, to shew where and how this motion is made, by what way and means, and how to be de<g ref="char:EOLhyphen"/>monstrated and made intelligible, That the <hi>Moon</hi> is in the example pro<g ref="char:EOLhyphen"/>posed 55 years in coming to the Opposition of <hi>Saturn, modo Kep<g ref="char:EOLhyphen"/>leriano.</hi>
+               </p>
+               <p>The <hi>Part of Fortune</hi> hath the same to pretend to as the <hi>Moon</hi> hath, with some little difference, but the motion and every thing the same, and as perfectly different from the <hi>Sun</hi> as the <hi>Moon</hi> is; and it is in vain to repeat the same, which I must do if I enlarge; therefore either read or imagine what was before said of the <hi>Moon,</hi> and it requires the same solution in the <hi>Part of Fortune</hi> also.</p>
+               <p>The Ascendent hath no motion but what depends on the <hi>Primum Mobile,</hi> and that is either swifter or slower, according to the Signs of long or short Ascention; but for a progressive motion it hath none of its own in any sense whatsoever; but by that motion it is said to have, there are 360 de<g ref="char:EOLhyphen"/>grees pass it every 24 hours. Here you see the <hi>Sun</hi> and <hi>Moon</hi> have diurnal motions, but the Ascendent hath none, and cannot be liable to any such
+<pb n="5" facs="tcp:52837:3"/> motion that our second-hand Philosopher pretends to; nor can I think how they can out of this rapt motion of the Ascendent form such a motion as to make the Ascendent be 73 years coming up to the Opposition of <hi>Sa<g ref="char:EOLhyphen"/>turn,</hi> when in truth, and according to the true motion, and all the moti<g ref="char:EOLhyphen"/>on of the Ascendent, there is not 35 degrees of distance between them. Whence it is plain, the whole Scheme of this foppish way of Direction is really imaginary, and without any foundation in Nature; which is a suf<g ref="char:EOLhyphen"/>ficient argument for any, and every ingenious man to <hi>disclaim, detest</hi> and <hi>disown</hi> it; and whosoever builds upon a Principle that hath no Foundation in Nature, must certainly be judged a Fool or a Mad man. And for a sup<g ref="char:EOLhyphen"/>port to my staggering Brethren, and as a further Information to them about Directions, I will lay down this as an <hi>Axiom, That Directions are nothing else but a Star or Point of Heaven, meeting with the Body or Beams of another Star in that way and motion that God and Nature hath appointed them.</hi> Now, if this Fellow can find out such a motion that he pretends to in the four Hilegiack Points, then I will give him the Cause; if not, I must look on him as I do now, to be a Confident Ignorant man, and one that con<g ref="char:EOLhyphen"/>tends for Contention-sake. But before I part with this subject, pray observe:</p>
+               <p>This Fellow's Sow hath three Ears, and he always takes her by that which he thinks makes the best Noise and Rattle. <hi>Anno</hi> 1692. in his Almanack, he tells the world, Nothing was so material and certain as <hi>Heliocentrick Di<g ref="char:EOLhyphen"/>rections.</hi> Then it was, <hi>We esteem the Earth a Principle Heligiack:</hi> Then it was, <hi>we gave that Impudent Challenge to the whole Nation:</hi> Then it was <hi>we were morally sure:</hi> Then it was we invited all the young Students to come <hi>to us</hi> to learn that excellent apish way of Direction: Then it was we were willing <hi>to shew our self their Servant:</hi> And at that time <hi>Kepler</hi>'s way was not worth a Lowse in our sublime Author's Opinion, compared to the <hi>Heliocentricks.</hi> In 1695. he had a very good Opinion of <hi>Naibod,</hi> and was in some debate who ought to have the Preheminence, he or <hi>Kepler.</hi> But now in 1697. the Doubt is discust, and there is no man nor method to compare with <hi>Kepler▪</hi> and his mighty Mystery in the method of Directions.</p>
+               <p>Again, I deny this motion in the <hi>Sun</hi> it self, and that there is no such motion in the <hi>Sun</hi> neither, as he pretends to in Primary Directions. In the preceding Example, let the <hi>Sun</hi> be in 15 degrees of <hi>Pisces</hi> on the Cusp of the Ascendent, and I would know when he comes to the Opposition of <hi>Saturn,</hi> in 28 degrees of <hi>Taurus;</hi> and that is, by <hi>Kepler</hi>'s foolish way, at 73 years of age; and at the same time there is but 34 degrees and 31 mi<g ref="char:EOLhyphen"/>nutes between them by the Oblique Ascention; now it is plain that the <hi>Sun</hi> by that motion passeth the Opposition of <hi>Saturn</hi> in such a number of degrees; which if they please to say it must give 73 years, I desire to know by what Rule and Method it is to be allowed; and I will venture a Wager with this <hi>Great Philosopher,</hi> That this Direction, whose Ark is 34 degrees 31 minutes, shall have an effect, but his of 73▪ shall have none, un<g ref="char:EOLhyphen"/>less there should be some Direction of the other Significators happen to work with it at that time, and so one colour the other. Upon the whole of the matter, you see our man of Art is fixt no where, but rambles from one Principle to another, from the <hi>Heliocentricks</hi> to <hi>Naibod,</hi> from thence
+<pb n="6" facs="tcp:52837:4"/> to <hi>Kepler.</hi> And I will venture to predict one thing, and that is, He will not continue in this Opinion of <hi>Kepler</hi>'s way neither long, but be ashamed after a while to think he hath maintained such a Nonsensical foolery; and yet I beg your Pardon, I cannot tell whether he can be ashamed or not: But I will say this for <hi>Kepler</hi>'s Maggot, That it is the only method fit for an Ignorant man; for whosoever hath Skill and Sense enough to examine it, will never believe a word of it.</p>
+               <p>Mr. <hi>Edlin</hi> was an admirer of this Foolery, and when he was sick, a Friend of mine, well acquainted with <hi>Astrology,</hi> went to visit him; who finding him dangerous, asked him, What Direction he was under? I am (said he) under none at all, but about three years hence there is a killing Direction, and then I shall dye, and not before. What method (said my Friend) do you use in Directions? <hi>Kepler</hi>'s, said he. But that three years never came to him, for in 14 days he was in his Grave, to the great Credit of <hi>John Kepler</hi>'s mystical foolery. I have been the larger in this part of my Answer, not for my Adversary's advantage, but to inform the <hi>Astrological Reader;</hi> and so I come to the Queries.</p>
+               <p>My first Query is, Why should her Life be so short, and the <hi>Sun</hi> Hileg, in his Exaltation in the Tenth? He says he agrees with me, and esteems it rational. Do you think he knows what he means by that Answer? I ask the Question, and he agrees with me to ask the Question too; a good mask for Ignorance.</p>
+               <p>To my second Query he talks really like himself. That the <hi>Sun</hi> and <hi>Mars</hi> are made mild and sweet-natur'd by the Trine of the <hi>Moon</hi> Lady of the Twelfth, which at another time shall do mischief. For shame keep to your Principles, if you have any, and give your Art certainty, if your Rules have any.</p>
+               <p>My third Query he mumbles as an Ass doth Thiftles; and after all he hath said, he doth not believe one word: Nor doth he or any of that Tribe dare venture to predict a Fever on the <hi>Sun</hi> to the Square of <hi>Saturn,</hi> let the cir<g ref="char:EOLhyphen"/>cumstances be as in that Figure; and this I challenge him to, if he dares: Nay! and he shall chuse a Nativity too himself, so the Native be living, and he will be pleased to print it. But I can tell you beforehand, he dares not trust his own Judgment in the case, and therefore pray do not expect it; and in plain terms he is totally ignorant of what gives the Disease in all Cases of Death.</p>
+               <p>To my fourth Query he says, He knows no modern Author that lays any stress on the <hi>Alchocoden.</hi> Let him name me any modern Author, if he can, that hath handled the Doctrine of Genitures, that doth not use it as one of the most principal things to depend on for Death, as <hi>Gadbury</hi> and <hi>Coley</hi> in <hi>English,</hi> and for <hi>Latin</hi> I know he hath no business with it; and let him name me any man, if he can, that refused to believe it before me. Thus you see how he tricks and trifles with his Readers, and stops a lye in their Mouths; but you must read him with a reserve; and when you come to know him, you will find him to be a creature that is nothing else but <hi>Face</hi> and <hi>Feather.</hi> He is an Artist, a Physician, and Philosopher by the same Rule that a <hi>Ballud-singer</hi> is a <hi>Stationer,</hi> a <hi>Mouse-trap-maker</hi> an <hi>Engineer,</hi> and a <hi>Scotch-pedler</hi> a <hi>Merchant.</hi> Upon the whole of the matter, What doth
+<pb n="7" facs="tcp:52837:4"/> this Fellow contend for? he grants (<hi>to my great Credit</hi>) the Direction to be the Square of <hi>Saturn;</hi> he allows two of my Queries, and the other two he denies; but at the same time confounds his own Doctrine: For in the one, to serve a turn he makes the Opposition of <hi>Venus</hi> a malesick Aspect, be<g ref="char:EOLhyphen"/>cause Lady of the Fourth, but the <hi>Moon</hi>'s Trine benesick, though Lady of the Twelfth. What doth he contend for then? Why, he works the Di<g ref="char:EOLhyphen"/>rection to 14 days, or less: Pray let him print some Nativities, and then I will talk with him upon that subject and piece of Art; I am sure he will make Blots enough for me to hit.</p>
+               <p>I hear he talks at large among illiterate people, of <hi>Art,</hi> the Truth of <hi>Art,</hi> and that he is for the <hi>Improvement of Art,</hi> and <hi>Art</hi> is his common Cant among those that know nothing but the Name only, and indeed he and they are only fit company; for, to say the truth of the man, he doth not understand one word of <hi>Astrology</hi> more than the common Trade-Stuff, which I am sure <hi>he dares not venture to print,</hi> for all he makes such <hi>Noise</hi> and <hi>Bouncing</hi> of his Skill; because he is very certain I will take him by the Beard for it. And you Gentlemen that keep him company, when you hear him talk that word again, observe what a <hi>splay-mouth</hi> he makes when he pronounceth the word <hi>Art;</hi> for the Organs of his Voice are no more fit to express it, than the Instruments of his Understanding to com<g ref="char:EOLhyphen"/>prehend it; and besides, the very use he makes of the Word would give any ingenious man just Suspicion he knows nothing of the matter, be<g ref="char:EOLhyphen"/>cause of his extravagant use of it; for he that hath true Skill, and is an Artist, his merit will proclaim his Abilities without telling them himself on an <hi>Ale-bench,</hi> as he doth; in a word, he talks of it as a <hi>Whore</hi> of <hi>Chastity,</hi> a <hi>Pick-pocket</hi> of <hi>Honesty,</hi> and an <hi>Hypocrite</hi> of <hi>Religion;</hi> that is, he hath the notion, but not the thing.</p>
+               <p>Among the rest of his Rhethorical Excursions and Flights of Fancy, he hath given us a specimen of <hi>George Parker</hi>'s parts, and the true mean<g ref="char:EOLhyphen"/>ing of <hi>Saturn</hi> on the Ascend<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt, in Square to the <hi>Moon,</hi> and <hi>Mercury</hi> in Opposition to <hi>Jupiter,</hi> as well as of his Breeding and Manners, when he comes to fall so <hi>rudely</hi> and like a Beast on <hi>Ptolemy;</hi> a man that all <hi>Europe</hi> have been, and are still beholding to for his Learning and Labour. He was the first man that transmitted <hi>Astronomy</hi> and <hi>Geography</hi> to the <hi>European</hi> World, which are both read at this day in all places of Learning with respect. He was a man in his time of Universal Learning, which he im<g ref="char:EOLhyphen"/>proved by his Labour and Study for the advantage of future Ages. He was the first man that laid down the true <hi>Philosophick Principles</hi> of <hi>Astrology,</hi> as <hi>Hippocrates</hi> did of <hi>Physick,</hi> and this in his <hi>Quadripartite,</hi> and both <hi>Book</hi> and <hi>Man</hi> have had that repute among men of Learning and Eminence, that three of the greatest men (for Learning) in <hi>Eu<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ope,</hi> i. e. <hi>Cardan, Junctine</hi> and <hi>Naibod</hi> thought it an honour to give the world each of them a Comment on his Book, the better to understand the Text (indeed <hi>Naibod</hi>'s Comment was never printed, but is in Manuscript only); and <hi>Cardan</hi> says (and that most truly) If that Book (the <hi>Quadripartite</hi>) had not been left and preser<g ref="char:EOLhyphen"/>ved, we had long since lost the true and genuine Art, and <hi>Astrology</hi> long since would have had nothing to boast of but a heap of superstitious <hi>Trifles</hi> and <hi>Fooleries,</hi> even such as this ignorant man is now endeavouring to promote
+<pb n="8" facs="tcp:52837:5"/> by Confidence and—. In a word, <hi>Ptolemy</hi> was a man of Learning, and no one need be ashamed to be his Disciple, and own his Doctrine as well as understand it; he lived a <hi>Gentleman,</hi> and dyed a <hi>Philosopher;</hi> and though the Earth is his <hi>Repositum,</hi> yet his Name lives without a <hi>monument,</hi> and is too big to be circumscribed; his Books are his Issue▪ in which he is interred, and in this Age Time it self writes almost 1600. years on his Tomb; see the Preface to his <hi>Almagest.</hi>
+               </p>
+               <p>Now after all this, comes a little <hi>Illiterate, Ignorant, Unmannerly, Ill-bred, Bended Mechanick,</hi> and calls the Old Gentleman <hi>Impudent Villain;</hi> and upon his <hi>Ale-bench,</hi> among his Pot-companions, he oftentimes calls him <hi>Old Crooked Red-headed Rogue</hi> into the bargain. I doubt his Stomach is very foul, give Pug a Spider. I need not say much in answer to these <hi>Alsatian Flourishes,</hi> because the Language to all men of Learning and Breeding gives an answer to it self, and they will soon guess at the Man by his Manners. Had <hi>Pto<g ref="char:EOLhyphen"/>lemy</hi> been a <hi>Cobler,</hi> a <hi>Taylor,</hi> or a <hi>Broken Jacobite Cutler,</hi> this Language and Usage would have been very uncivil, and not becoming a man that pretends to be a Penman; and besides, had <hi>Ptolemy</hi> been living, it would have been looked on as a sort of malicious <hi>Billingsgate</hi>-Education; but considering he hath been dead above 1500 years, for a Fellow to venture on such rude Ex<g ref="char:EOLhyphen"/>pressions without (you may be certain) any cause given, is such a bruitish piece of Barbarity, that none but <hi>George Parker</hi> would dare to own or pre<g ref="char:EOLhyphen"/>tend to publish, and you may be sure he that will give such Language to the Dead, will not spare it to the living, if he doth not fear his head.</p>
+               <p>
+                  <hi>Ptolemy</hi> is the Patron, nay, the Father of all <hi>Legitimate Astrologers;</hi> and this is the first Son that ever I heard durst take his Father by the Beard, and call him <hi>Villain</hi> and <hi>Rogue.</hi> Now let us turn the Tables, and suppose a man that hath Children should break and run into <hi>Salisbury Court to cheat his Creditors;</hi> and his Son should say to him, <hi>Ah you Jacobite Rogue, you spent the money that should have maintained us, in Whoring with my Mother's Maid.</hi> Would you not think this is very uncivil, as well as undutiful Language for this sawcy Boy to give his Father? Notwithstanding the thing is true enough in it self; but the Sawciness of the Boy is the thing. Did you ever know a Physician enlarge his Practice and Acquaintance by calling <hi>Hippocrates Old bald-headed Rogue and Villain?</hi> Or did you ever know a Child the more valued and beloved for calling his <hi>Mother Whore,</hi> and his <hi>Father Cuckold?</hi> Or did you ever know any man the better respected among men of Virtue and good Morals, for using base and scurrilous Language in his Conversa<g ref="char:EOLhyphen"/>tion, how witty soever he thought it in himself? In a word, I know the man so well, that should there be an Opportunity for it, he would say as much of <hi>Moses, Christ</hi> and his own <hi>Father,</hi> especially if <hi>Tom Street</hi> had but told him so. Upon the whole, <hi>Query,</hi> Whether this is the Merit for which he brags of a Place conferred upon him, and what Credit he will prove to the Donors?</p>
+               <p>But why must <hi>Ptolemy</hi> be called a Villain? Why, because his Tables are not fit for this Age, and he doth not come again to mend them; and be<g ref="char:EOLhyphen"/>cause <hi>Tom Street</hi> pretends there is an Observation wanting, which was left out by the Transcribers of old, no doubt, if there is one wanting; but <hi>Tom</hi> would lye, and because he doth not come or send some body to teach
+<pb n="9" facs="tcp:52837:5"/> him as well the Language as the Principles of his <hi>Quadripartite;</hi> and be<g ref="char:EOLhyphen"/>cause the famous Bog-trotting <hi>Tom</hi> told him he was a Villain. Nay, if he hath the art of abusing men dead 1500 years by <hi>hear-say,</hi> I am sure he can<g ref="char:EOLhyphen"/>not be angry with me for what I say of himself, because the Matter is all true, and he living; let him disprove it if he can or dare.</p>
+               <p>But why must it be the <hi>Famous Street,</hi> and the <hi>Villain Ptolemy?</hi> Oh, <hi>Tom</hi> was <hi>famous</hi> many ways; he was <hi>famous</hi> for being a <hi>Tapfler</hi> at <hi>Dublin,</hi> fa<g ref="char:EOLhyphen"/>mous for being a <hi>Red-Coat-Soldier</hi> under <hi>Cromwel;</hi> he was famous for be<g ref="char:EOLhyphen"/>ing Poor, Ill natur'd, Morose, Peevish, Conceited, Knavish, and a good Astronomer: And all these Faculties he left to his Pupil <hi>George,</hi> except his Skill. He was <hi>famous</hi> for marrying when he was above Fifty; when he could not get Bread for himself, then he took a Wife to beget Beggers. He was famous for wheedling a number of Gentlemen, by persuading them to subscribe for a Book he pretended to print, got about 150 or 200 pound of them, and then cheated them of their money. Hence it is no wonder to hear <hi>Parker</hi> commend <hi>Irish Tom, similis simili gaudet.</hi> But because <hi>Ptolemy</hi> was a man of <hi>Learning, Bravery, Honour</hi> and <hi>Honesty,</hi> it is no wonder to hear <hi>Honest George</hi> call him <hi>Villain</hi> and <hi>Rogue,</hi> &amp;c. He was a man of too gene<g ref="char:EOLhyphen"/>ral and generous an Education for these two Fellows to understand or be acquainted with. And at last, after all his Noise and Cry for his ill-natur'd Master and his Skill, there are them in <hi>London</hi> that tell us, <hi>T. S.</hi> was but the Improver, and the Hypothesis of his Tables was not his own, but he had it out of <hi>Germany,</hi> and a Woman was the Author of it; so that he did but lick it into form, which was no such great matter. And as a conclu<g ref="char:EOLhyphen"/>sion to this part of the matter, here seems room for a very fit Query; and that is, Why these <hi>great Numerators</hi> should be so often subject to be Kn—s? One he <hi>run away</hi> at <hi>Midnight,</hi> and cheated both <hi>Landlord</hi> and <hi>Creditors;</hi> another he makes <hi>Sigills</hi> and <hi>Charms,</hi> and makes the people believe his <hi>De<g ref="char:EOLhyphen"/>vilship</hi> can do Wonders; a third <hi>tricks</hi> a number of <hi>Honest Gentlemen,</hi> un<g ref="char:EOLhyphen"/>der the Notion of Subscribing to a Book: And pray which is the honest<g ref="char:EOLhyphen"/>est man of the Three?</p>
+               <p>The Fellow says, That whatever <hi>Ptolemy</hi> wrote, hath no sway with him, but when i<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> keeps pace with Reason. And pray, Where must this Standard of Reason be found? No where I'll warrant you but in <hi>Honest George</hi>'s own Head. Pray Gentlemen, Do you think he that hath his <hi>Mercury</hi> in Opposition to <hi>Jupiter,</hi> his <hi>Sun</hi> in Conjunction with <hi>Saturn</hi> on the Ascen<g ref="char:EOLhyphen"/>dent, and the <hi>Moon</hi> in Square to them both, hath not a fit Head to make a Standard of Reason for a whole Nation or City? He doth not <hi>believe Pto<g ref="char:EOLhyphen"/>lemy</hi> but when he keeps pace with his Reason; nor should I believe him if he did; nor can I believe his Reason when it doth not keep company with Honesty and Morality.</p>
+               <p>Lastly, To carry on the Rattle, and make the world believe that he talks to the purpose, he confidently perks up, and demands a proof of my <hi>Table of Houses,</hi> what the Pole of each House is? what Influence the Parallels have? whether the Power of a Square, Trine or Opposition? with more such like tattle. As to the Table of Houses, I have in my <hi>Defectio</hi> largely spoke to that, and a Division of the Heavens in the general; but the thing was done in <hi>Latin</hi> by <hi>Didacus Prittus,</hi> and printed at <hi>Milan,</hi> 1647. after<g ref="char:EOLhyphen"/>ward
+<pb n="10" facs="tcp:52837:6"/> by <hi>Placidus</hi> at <hi>Padua</hi> in 1657. The Poles of the Houses were printed at <hi>Paris</hi> in 1646. at <hi>Millan</hi> in 1647. at <hi>Padua</hi> in 1657. and at <hi>London</hi> in 1688. The Influence of the New Aspects and Parallels were printed at <hi>Millan</hi> by <hi>Didacus Prittus</hi> in his <hi>Coelestis Philosoph. Lib 2 Cap. 2. Lib. 2. Cap.</hi> 9. And now is not this an impudent thing, for a fellow that sets up for a Master, and pretends to teach the Art, and <hi>Secrets</hi> not known to others, to be igno<g ref="char:EOLhyphen"/>rant of things that have been so long in print, and published in several Nations? Thus you see how necessary it is for Confidence to go along with Ignorance; I suppose the Fellow would have me send for the Books from beyond Sea, and translate them for him. As for his Ignorance in these things, you must not blame him, for his <hi>Business</hi> is not <hi>Skill,</hi> but <hi>Contention;</hi> not <hi>Reading,</hi> but <hi>Railing;</hi> not <hi>Learning,</hi> but <hi>Lewdness;</hi> and for his being my Pupil, I must beg his Excuse, for I never entertain any one that I know beforehand is both <hi>Fool</hi> and <hi>Knave.</hi> Thus I have given him a civil Retuan to all his ridiculous Stuff, more fit to have been hissed at, than answer'd; and now come to demand of him these things following.</p>
+               <p>First, Before he runs away with a Conquest, let him prove such a Mo<g ref="char:EOLhyphen"/>tion as he pretends to in the <hi>Ascendent, Moon, Part of Fortune,</hi> &amp;c. in his way of Direction; for I do assure you there is no such Motion in Nature.</p>
+               <p>Secondly, Let him tell the World what he hath further to say in justifi<g ref="char:EOLhyphen"/>cation of his Challenge in 1692. I hope he will not be so impudent to challenge a whole Nation, and when one single man appears drop his Cause, and run for it; if he doth, he is—you may guess what.</p>
+               <p>Thirdly, In the Example preceding, let him tell us under what Poles the <hi>Sun</hi> and <hi>Moon</hi> meet those Directions, in his way of <hi>Kepler.</hi>
+               </p>
+               <p>Fourthly, Since you are so exact in Calculation, pray prove your Skill by printing your <hi>Daughter's Nativity</hi> again; and tell the World when she will be <hi>sick</hi> again, when she will <hi>marry,</hi> and when she will <hi>dye:</hi> And I will print it too; if you dare do it. Likewise tell the World, Why your Son did not dye on the <hi>Sun</hi> to the Square of <hi>Mars</hi> in <hi>Libra?</hi> Nay, Why he was not sick on that Direction? And also why your Daughter <hi>Elizabeth</hi> did dye at almost two years old, notwithstanding she had <hi>Jupiter</hi> with the <hi>Sun</hi> in the Ascendent. Let these things be done, and then I will be ready for you again; answer something, as well as ask; and till that are done, expect no more from me. But I wonder you should call for the Poles of the Houses, when you use no Poles of Position in any Directions.</p>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Part of the <hi>Whipper Whipp'd.</hi>
+               </head>
+               <p>WHen <hi>Parker</hi>'s Almanack was printing for 1697. he hugg'd himself with what he had done; and told a Gentleman, He had claw'd me off; to another he said, He had <hi>swindg'd</hi> me; to another he had <hi>drown<g ref="char:EOLhyphen"/>ed Gadbury</hi> and <hi>Partridge,</hi> though <hi>Gadbury</hi> nor my self did ever give him any occasion in the least to do it: But I observe the Fellow was pleased
+<pb n="11" facs="tcp:52837:6"/> with his own Whim. He tells divers people, That I give a Guiney a year to have my Verses made for my Almanack; if that were true, it is more like a Gentleman, to relieve a Poor Poet, than to go a begging with Almanacks at <hi>Christmas,</hi> as <hi>Hospital-boys</hi> with their <hi>Psalms,</hi> among the <hi>Bellmen, Drummers,</hi> &amp;c. as he doth. The <hi>Bellman</hi> with his <hi>Verses,</hi> the <hi>Dustman</hi> with his <hi>Bell,</hi> the <hi>Drummer</hi> with his <hi>Rattle,</hi> and the <hi>Alsatian Con<g ref="char:EOLhyphen"/>jurer</hi> with his <hi>Stars.</hi> Thirty Shillings, he says, Dr. <hi>B.</hi> in <hi>Little-Britain</hi> gave him, and Ten Shillings Mr. <hi>L.</hi> of the Treasury, with smaller Sums of others; only these I mention, to prove what I say, for I know he hath the art of Denying, <hi>&amp;c.</hi>
+               </p>
+               <lg>
+                  <head>
+                     <hi>The Friendly Courant;</hi>
+                  </head>
+                  <opener>
+                     <hi>to the Tune of</hi> Flagellum Astrologicum.</opener>
+                  <l>Sir, by your Leave, excuse my Rural Strain,</l>
+                  <l>I'll do thee right, thou Son of <hi>Tubal-Cain,</hi>
+                  </l>
+                  <l>I'll paint thee to the Life, exact and true;</l>
+                  <l>Thy <hi>fresh,</hi> but <hi>deep-dy'd Crimes.</hi> I'll draw them too;</l>
+                  <l>I'll shew thy Birth, thy Parts in each degree,</l>
+                  <l>And how thy <hi>Stars</hi> are verify'd in thee▪</l>
+                  <l>I'll shew what Stars incline thee to this Strife,</l>
+                  <l>What clogs thy Soul, what gives thy vicious Life;</l>
+                  <l>What made thee turn a <hi>Quaker,</hi> what despise</l>
+                  <l>The <hi>Church,</hi> and <hi>Knavishly Apostatize.</hi>
+                  </l>
+                  <l>What makes thee live in <hi>Jail,</hi> what gives this <hi>Itch,</hi>
+                  </l>
+                  <l>Basely to <hi>leave thy Wife,</hi> and keep a <hi>B</hi>—</l>
+                  <l>What makes thee trait'rous, what thy Friends deride,</l>
+                  <l>All <hi>Fools</hi> and <hi>Knaves,</hi> if by <hi>your Reason</hi> try'd,</l>
+                  <l>False from thy Birth, this thy lewd Bosom bore;</l>
+                  <l>Thy <hi>Moon</hi> in <hi>Scorpio (George</hi>) gives that and more.</l>
+                  <l>To Truth and Justice a known Enemy,</l>
+                  <l>
+                     <hi>Judas</hi> himself was just compar'd to thee;</l>
+                  <l>Proud <hi>without Parts,</hi> Lewd and Ambitious still,</l>
+                  <l>
+                     <hi>Bold</hi> and <hi>Audacious,</hi> without <hi>Art</hi> or <hi>Skill.</hi>
+                  </l>
+                  <l>Thy station ought near <hi>London-bridge</hi> to be,</l>
+                  <l>What diff'rence (<hi>George</hi>) 'twixt <hi>Billinsgate</hi> and thee?</l>
+                  <l>Ill words and <hi>saucy Language</hi> arm thy Tongue,</l>
+                  <l>The only <hi>Learning</hi> that was taught thee young.</l>
+                  <l>
+                     <hi>Morose</hi> and <hi>Bruitish,</hi> such beasts want a Clog,</l>
+                  <l>
+                     <hi>Groul, snarle,</hi> and <hi>snap</hi> like an ill-natur'd Dog.</l>
+                  <l>Your manhood made your humble Wife obey,</l>
+                  <l>And whipp'd her too the <hi>Heliocentrick</hi> way,</l>
+                  <l>Then forc'd her from your Bed; what shame is this?</l>
+                  <l>And ever since, you know, you've <hi>done a Miss;</hi>
+                  </l>
+                  <l>
+                     <hi>Done,</hi> did I say? poor Woman, hard's her Fate,</l>
+                  <l>That <hi>Wench,</hi> I mean, that helps you <hi>calculate,</hi>
+                  </l>
+                  <l>She lent betimes, but thou'lt pay wondrous <hi>late.</hi>
+                  </l>
+                  <l>A thinking man may in thy Forehead read,</l>
+                  <l>Nay, in thy <hi>Picture</hi> too, what makes thee bad;</l>
+                  <pb n="12" facs="tcp:52837:7"/>
+                  <l>Thus did his <hi>Stars</hi> by publick marks foreshew,</l>
+                  <l>And tell what Crimes in future years he'd do.</l>
+                  <l>
+                     <hi>Nature,</hi> when she's uneasy, lays about,</l>
+                  <l>And so his <hi>Dam</hi> in frightful shapes did shout</l>
+                  <l>When <hi>hardbound Nature</hi> squeez'd this <hi>Monster</hi> out.</l>
+                  <l>
+                     <hi>Pity poor George,</hi> tainted with scribling Itch!</l>
+                  <l>So poor in Parts, yet thinks he's over-rich:</l>
+                  <l>Though naked, thinks he doth possess a Crown;</l>
+                  <l>And though scarce <hi>Primmer Ripe,</hi> to teach the Town.</l>
+                  <l>He writes, 'tis true, and thinks, but thinks amiss,</l>
+                  <l>That <hi>Cicero</hi>'s Eloquence is short of his;</l>
+                  <l>He hath ('tis true) in <hi>Language</hi> him surpast;</l>
+                  <l>Perhaps some man may lash him him for't at last,</l>
+                  <l>But I will use him <hi>gently</hi> like a <hi>Friend,</hi>
+                  </l>
+                  <l>Correct, but not strike hard, perhaps he'll <hi>mend,</hi>
+                  </l>
+                  <l>Poor ign'rant Soul, and so he'll be to toth' end.</l>
+               </lg>
+               <figure>
+                  <figDesc>astrological chart</figDesc>
+                  <p>Honest <hi>George Parker; Natus die 9. Augusti, hor. 5 min. 17. manè.</hi> 1654.</p>
+                  <p>☽ per Lat. ♂ exactè.</p>
+                  <p>Estimate past 5 <hi>manè. Sub Lat.</hi> 52.</p>
+               </figure>
+               <p>
+                  <table>
+                     <row>
+                        <cell cols="2">Lat.</cell>
+                        <cell cols="2">Planet.</cell>
+                     </row>
+                     <row>
+                        <cell>♄</cell>
+                        <cell>1</cell>
+                        <cell>25</cell>
+                        <cell>
+                           <hi>N.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>♃</cell>
+                        <cell>1</cell>
+                        <cell>34</cell>
+                        <cell>
+                           <hi>S.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>♂</cell>
+                        <cell>1</cell>
+                        <cell>9</cell>
+                        <cell>
+                           <hi>N.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>♀</cell>
+                        <cell>1</cell>
+                        <cell>31</cell>
+                        <cell>
+                           <hi>S.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>☿</cell>
+                        <cell>1</cell>
+                        <cell>48</cell>
+                        <cell>
+                           <hi>S.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>☽</cell>
+                        <cell>5</cell>
+                        <cell>4.</cell>
+                        <cell>
+                           <hi>S.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>R. A.</hi>
+                        </cell>
+                        <cell>⊕</cell>
+                        <cell>228</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Dis.</hi>
+                        </cell>
+                        <cell>⊕</cell>
+                        <cell>
+                           <hi>ab J. C.</hi>
+                        </cell>
+                        <cell>158</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>This is the day he says he was born on, but I am of opinion it was the 10. day at this time, and he not willing to own it; but I am sure that he gives of ♍ ascend. is false</p>
+               <p>As <hi>Cardan</hi> says of <hi>Nero,</hi> so may I justly of this man, <hi>Nec nix nivi simi<g ref="char:EOLhyphen"/>lior, quâm hac Genitura gestis, Moribus ac Fortunae Nati.</hi> I have but Two Accidents, and they are, The Ascendent to <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sextile of <hi>Venus</hi> for his Marriage at 23 or 24 years old. The other is the <hi>Sun</hi> to the Opposition of <hi>Jupiter;</hi> at which time he walk'd from the <hi>Boar Cat</hi> in <hi>Newgatestreet</hi> at Midnight, being then 39 years and 3 months. And so I come to shew how his Manners and Fortune agrees with his Stars; and also to shew the young Student how to judge of an <hi>honest Nativity.</hi>
+               </p>
+               <div type="section">
+                  <head>
+                     <pb n="13" facs="tcp:52837:7"/>
+                     <hi>De Ingenio Nati.</hi>
+                  </head>
+                  <p>In this we must consider the Sign Ascending, the <hi>Moon,</hi> and <hi>Mercury,</hi> and their Configurations. The Ascendent is <hi>Leo,</hi> infested with the envi<g ref="char:EOLhyphen"/>ous and malicious Presence of <hi>Saturn,</hi> who afflicts the Ascendent, the Lord of it, and the <hi>Moon; Mercury▪</hi> you see, is in Opposition to <hi>Jupiter,</hi> so that, all the Significators of his Wit and Ingenuity are vitiated, depraved, and afflicted; and so must his Fancy and Parts be likewise, even an Enemy to Honesty.</p>
+                  <p>
+                     <hi>Saturn</hi> in the Ascendent with the <hi>Sun,</hi> gives him Pride and Uneasiness, and at the same time supplies him with a large share of Envy against every one that doth exceed him in <hi>Parts</hi> or <hi>Practice, Interest</hi> or <hi>Reputation, Wit</hi> or <hi>Honesty. Saturn</hi> on the Ascendent, in Conjunction with the <hi>Sun</hi> and Square of the <hi>Moon,</hi> inclines a man to a <hi>sordid, brut<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>sh Temper, cruel, envious</hi> and <hi>seditious;</hi> this you may read in his common Language preceding, <hi>&amp;c.</hi> All that <hi>Saturn</hi> addeth to his Ingenuity, is to make him thoughtful and studious, but at the same time it poisoneth his Thoughts, and the Product of it, and gives it a <hi>knavish Consequence;</hi> but we must seek that more perfectly in <hi>Mercury,</hi> the Picture of the Understanding. <hi>Mercury</hi> in <hi>Virgo</hi> doth undoubt<g ref="char:EOLhyphen"/>edly furnish a man with Ingenuity, and a projecting Brain, and makes a man ingenious in any thing his mind is inclined to: But then consider, <hi>Jupiter</hi> is the Author of <hi>Honesty</hi> (says <hi>Cardan, Seg. 4. Aph. 34.) Piety, Mo<g ref="char:EOLhyphen"/>desty,</hi> &amp;c. and he in Opposition to <hi>Mercury;</hi> so that you see the <hi>Understanding</hi> and <hi>Ingenuity</hi> are directly Opposite to his <hi>Honesty, Piety,</hi> &amp;c. His Fancy hath no tendency to Good, nor is he inclin'd to it, because the <hi>Moon,</hi> who governs the Faculties of the Brain, is poisoned by <hi>Saturn</hi> and <hi>Mars,</hi> without any Relief, unless to quicken the Poison; and this in <hi>Scorpio,</hi> (which <hi>Car<g ref="char:EOLhyphen"/>dan</hi> says, <hi>Seg. 2. Aph. 55. Seg. 5. Aph.</hi> 166.) makes <hi>Lyars, Traitors</hi> and <hi>Knaves.</hi> And it is natural for one that hath <hi>Saturn</hi> in the Ascendent, in Square to the <hi>Moon,</hi> to be always contriving and designing▪ some Project to a <hi>knavish End</hi> and <hi>Design,</hi> which will generally fall on himself at last.</p>
+                  <p>Well then, you see I allow him to be ingenious, but what must it be? Why truly, such Ingenuity as <hi>Pick-pockets, Gamesters</hi> and <hi>Thieves</hi> have: For you must allow them too to be very <hi>witty</hi> and <hi>ingenious men.</hi> So <hi>Coley's Son,</hi> who had his <hi>Mercury</hi> in <hi>Scorpio,</hi> in Square to <hi>Jupiter,</hi> and in Squre to the <hi>Moon,</hi> was very ingenious, and ready at what his Fancy inclined him to, which was <hi>Th—ing;</hi> for which, they say, he was lost among the Trees. <hi>Morgan Bourn</hi> had his <hi>Moon</hi> in Square to <hi>Saturn,</hi> and <hi>Mercury</hi> in Opposition to the <hi>Moon</hi> and Square of <hi>Saturn;</hi> he was a <hi>very ingenious fellow,</hi> but <hi>hang'd</hi> for <hi>Clipping</hi> and <hi>Coining. J. M.</hi> had his <hi>Mercury</hi> in Square to <hi>Mars,</hi> he was a genteel Fellow, and very ingenious, <hi>hang'd</hi> for <hi>Robbing. H. O.</hi> hath his <hi>Moon</hi> in Conjunction with <hi>Mars,</hi> and both in Square to <hi>Mercury,</hi> he is <hi>idle, lewd</hi> and a <hi>notorious Lyar,</hi> yet living. And the Position of hon<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st <hi>George▪</hi> considered together with these, will give such ingenuity as these men had, and full as honest too. His <hi>Mercury</hi> in Opposition to <hi>Jupiter</hi> from <hi>Virgo</hi> and <hi>Pisces,</hi> will give him a Fancy like a <hi>crackt Looking-glass,</hi> all <hi>Project</hi> without <hi>Success;</hi> and for <hi>Piety,</hi> turn him loose! Nay, his <hi>Moon</hi> in Trine to <hi>Jupiter,</hi> is an Injury to him, because it strengthens his Enemies in oppressing <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> Lord of his Second. Pray look in his shrievel'd Face, and look on this
+<pb n="15" facs="tcp:52837:8"/> Figure with <hi>Saturn</hi> on the Ascendent, and tell me your Thoughts, Whe<g ref="char:EOLhyphen"/>ther it is like him or not?</p>
+               </div>
+               <div type="section">
+                  <head>De Peritia in Arte sua.</head>
+                  <p>As to his principal Skill he hath hitherto furnished the world with, it is only of an Astronomical Nature, that is, Calculation; a work only fit for those that have nothing else to do, or rather fitter for a <hi>Porter</hi> than a <hi>Philo<g ref="char:EOLhyphen"/>sopher,</hi> which he imagines himself to be. And I will engage to teach a <hi>Plowman</hi> (so he hath but a little <hi>Arithmetick</hi>) as much <hi>Astronomy</hi> in a month as he is Master of for all his great <hi>Blusters</hi> and <hi>Bounces.</hi> In <hi>Astrology</hi> he ne<g ref="char:EOLhyphen"/>ver durst shew the World any thing yet; nor do I believe he will: And more than that, he is not able to do any thing; for if he had, he would never have gone to <hi>Italy</hi> for Examples, as you see he doth in his Almanack 1696. and at last to fill up, tells us a lame lousy Story of <hi>Morgan Bourn,</hi> which he was forced to borrow, having none of his own. His Almanack is patcht up by divers hands, and he never wrote one yet that was his own. The Eclipses he hath yearly of Mr <hi>E. H.</hi> he not being able to calculate them. From the same <hi>E. H.</hi> he also hath the Table of the Satellites of <hi>Ju<g ref="char:EOLhyphen"/>piter,</hi> which you see this year is wanting, because Mr. <hi>H</hi>—was in the Country. His <hi>Tide-Table</hi> he always had from Mr. <hi>F.</hi> and by the Assistance of these two men they set him up; and one of them I hear he quarrels with already, and so he will do with the other shortly. Nay, the very Eclipse of <hi>Mercury</hi> that he notes in Red-Letters in <hi>October</hi> 1697. is stole (and not owned) out of the <hi>Philosophical Transactions,</hi> number 193. pag. 491. done by Mr. <hi>Halley</hi> for 180 years past and to come. Now you that espouse his Interest, see what a man of Art you have to defend. The Watch Mo<g ref="char:EOLhyphen"/>tion is taken out of the <hi>Philosophical Transactions</hi> Numb. 214. pag. 248, 249. And out of one of the same Volumes also he hath stole the Table of the Sun's Declination, and hath not Honesty enough to own either of them. The like in his patcht-up <hi>Ephemeris,</hi> the <hi>Moon</hi> there is not calculated, but taken from <hi>Argol,</hi> and not owned neither. His demonstration of the <hi>Mo<g ref="char:EOLhyphen"/>dus Rationalis,</hi> in his <hi>Ephemeris,</hi> he had from <hi>Coley;</hi> from whom you see he he hath also learned to teach Astronomy and Astrology, <hi>with Varieties not known to every Professor:</hi> Compare <hi>Coley</hi>'s Advertisement and his together. His <hi>Poetry</hi> that he writes, he makes it as <hi>Coley</hi> doth, <hi>at a Heat;</hi> and no doubt but he will teach him, in a short time, to make Sigils too. The <hi>Ephemeredes,</hi> he values himself upon, is not done by himself to this day; at his beginning one did <hi>Saturn,</hi> another did <hi>Mars,</hi> a third <hi>Jupiter,</hi> and so patcht up by divers hands: At which time he also promised us an <hi>Epheme<g ref="char:EOLhyphen"/>rides</hi> for Seven years, depending on the same Assistance: But that Book the <hi>Boar Cat</hi> in <hi>Newgatestreet</hi> run away with. Nay, even the <hi>Ephemeris</hi> for this present year is not his own; but the Wench that cohabits with him doth her Share in the Calculation too: And yet this man of Noise would have the world believe there is none to compare with him. But it is like the <hi>Moon</hi> in Square to <hi>Saturn</hi> and the <hi>Sun,</hi> and <hi>Mercury</hi> in Opposition to <hi>Jupiter.</hi>
+                  </p>
+                  <p>As to his Doctoral Skill, pray observe; About the middle of <hi>January</hi> last, a Woman in <hi>Drury Lane</hi> was sent to me, but she mistook <hi>Salisbury-Street</hi> for <hi>Salisbury-Court,</hi> and to the Learned Dr. <hi>Parker</hi> she carries her Water. The Doctor looks on it, and tells her, She was in a deep Consumption, and
+<pb n="14" facs="tcp:52837:8"/> over-run with <hi>Saturn.</hi> At that (said the Gentlewoman) I began to stare, and wondred what the man meant; and as he had an <hi>odd Countenance,</hi> so (said she) I thought he had been mad indeed. She askt him, if she were with Child? He said, Yes, she was She askt him if there were any <hi>Cure</hi> for her <hi>Consumption?</hi> He said yes, he could cure her. But Sir, said she, If I am with Child (which is not to be doubted) I am afraid it will be dangerous to <hi>take Physick.</hi> No, no, said he, What I give you, a Child may take; and so to work he went, and gave her <hi>Four Doses of Pills,</hi> and <hi>Four Papers of Powder,</hi> to cure her <hi>Tabes,</hi> and strengthen her <hi>Womb.</hi> The Pills wrought with her 30 or 40 times every Dose she took of them, and had almost <hi>killed her;</hi> and when she was grown so very low and weak with <hi>his Pills;</hi> she begins with her <hi>strengthening Powders,</hi> expecting that they would have repaired her again: But instead of that, they proved very <hi>strong Diureticks,</hi> made her <hi>miscarry,</hi> and brought away the <hi>whole Conception;</hi> and so between the <hi>Pills</hi> and this <hi>Powder</hi> making her <hi>miscarry,</hi> God knows what the Issue of it may be. Now what will you call this? <hi>Impudence, Ignorance, Knavery</hi> or <hi>Mur<g ref="char:EOLhyphen"/>der?</hi> Did you ever know any but <hi>Blockheads</hi> give strong Purges to People in a deep Consumption, as he told her she was? Or any but those flusht in Murder, give <hi>strong Diureticks</hi> to a Woman above <hi>Three months gone with Child?</hi> If he thinks I trifle with him▪ let him put it to the Proof if he dares. <hi>Here's your Doctor, good Women!</hi>
+                  </p>
+                  <lg>
+                     <l>Would you be cured? then take great <hi>Parker's Pills,</hi>
+                     </l>
+                     <l>They'll do, the more he gives, the more he <hi>kills.</hi>
+                     </l>
+                  </lg>
+                  <p>I could tell you a pleasant Story about a Clyster he ordered for a Woman, but you shall have that among the next; for I have some Friends providing more matter for me. Did you ever know any man that had his <hi>Mercury</hi> af<g ref="char:EOLhyphen"/>flicted, and <hi>Saturn</hi> on the Ascendent afflicting the <hi>Moon,</hi> that had Reason or a good Judgment? Nor can this man make a good Judgment of any thing, nor have Success in what he attempts from thence; and so I will leave you to his own Motto.</p>
+                  <lg>
+                     <l>To whom Physick I give</l>
+                     <l>But few of you live.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>De Impudentia Nati.</head>
+                  <p>
+                     <hi>Saturn</hi> and <hi>Mars</hi> afflicting the <hi>Sun</hi> Lord of the Ascendent, and <hi>Saturn</hi> af<g ref="char:EOLhyphen"/>flicting the <hi>Moon</hi> weak in <hi>Scorpio, Mercury</hi> afflicting and afflicted by <hi>Jupiter,</hi> enclines men to be audacious, and shews such as trangress the Rules of Mo<g ref="char:EOLhyphen"/>desty, <hi>&amp;c.</hi> And <hi>Cardan</hi> says, <hi>Jupiter</hi> and the <hi>Sun</hi> are the Authors of <hi>modesty</hi> and <hi>humanity,</hi> but in this Nativity they are both oppressed, and therefore those two <hi>virtues</hi> are wanting, and their places supplied with their Opposites.</p>
+                  <p>The proof, In 1694. he confidently dedicated his Almanack to Sir <hi>J. F.</hi> to make his <hi>name Eternal (verbis suis</hi>) and this without asking his Leave and Permission. But did you ever know any man make a <hi>man</hi> or thing <hi>eternal</hi> by commending it in an <hi>Almanack?</hi> Where is the Wit of it?</p>
+                  <p>Secondly, It is <hi>Impudence</hi> to the highest degree to endeavour to justifie that base and unjust Punishment of Dr. <hi>Oats.</hi> It was proved by none but such as by our Law ought to have been hanged; and besides, what they swore was notoriously false, as it appeared by <hi>Hinton's Books,</hi> which justified <hi>Ireland</hi>'s being in <hi>London</hi> that day Dr. <hi>Oats</hi> said he was, and that <hi>Hinton</hi> paid him Money then to his own hand. All I wish the <hi>Fellow</hi> is, That he may
+<pb n="16" facs="tcp:52837:9"/> live to enjoy the Happiness of such a <hi>Gentle Punishment,</hi> perhaps already de<g ref="char:EOLhyphen"/>served, if he had his due. The meaning of the thing is, the fellow is set<g ref="char:EOLhyphen"/>ting up for a <hi>Jacobite</hi> without either <hi>Wit</hi> or <hi>Credit,</hi> of which sort they have a great number in the Party already, and he for his <hi>Impudence</hi> and <hi>scandalous Life</hi> comes behind none of them</p>
+                  <p>Thirdly, I will leave it to the World to judge if that was not a gross piece of <hi>Impudence</hi> in 1692. to challenge the whole Nation at once, To assign any other Direction for his Daughters Sickness, than that foolish one that he asserted, The <hi>Earth</hi> to the <hi>Heliocentrick</hi> place of <hi>Mars?</hi> And when a certain Person had given a Direction or two for that Sickness, he dropt his Challenge, and we never heard a word of that since. By the same Rule I judge he will take a good Drubbing, and sit down civilly with it too. I am sure none but a very confident Fellow could ever have had the Face to write again till he had given the World satisfaction why he did not maintain his Challenge. But that which makes the thing more audacious, That which he challenged the Nation upon, he had no experience of, and that was the first example of its kind. Now find me out one to match him, and I will give you my Cap.</p>
+                  <p>Fourthly, I take it for a very bold, confident trick, to steal Dr. <hi>J. R</hi>'s Advertisement verbatim out of my Almanack, as you may see by compa<g ref="char:EOLhyphen"/>ring his of 1696. with mine for some years past, in these words. <hi>Parker</hi> says, <hi>It is the only Elixir of Scurvy-grass that is in being, and fit for the Closet of any Physician; those that buy it, if they find it not as here asserted, may re<g ref="char:EOLhyphen"/>turn it without loss.</hi> And for the better understanding the <hi>Man</hi> and his <hi>Medicine,</hi> take the Receipt it self, which is thus. <hi>Take Scurvygrass, green and fresh, clean washt and dried on a Cloath, what quantity you please, put it into a Glass, and pour upon it the best Rectified English Spirit, so much as will co<g ref="char:EOLhyphen"/>ver it, 4 or 5 Fingers above the Herb; let them stand in a gentle Heat till the Li<g ref="char:EOLhyphen"/>quor is turned Green, and it is prepared and fit for use.</hi> The man must cer<g ref="char:EOLhyphen"/>tainly have a large <hi>share of the Faculty,</hi> or else he could never put this on the world, which is a <hi>Lye,</hi> and a <hi>Cheat</hi> at the Tail of it; fi<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>st, to tell the world it is an <hi>Elixir.</hi> And secondly, to sell it as such, when it is nothing else but a nasty, dirty Infusion; Thus he must be <hi>Horridly Ignorant,</hi> or <hi>plaguily Impudent,</hi> either not to know what an <hi>Elixir</hi> is, or to put a <hi>nasty Infusion</hi> upon the World for an <hi>Elixir,</hi> and then say, It is <hi>fit for the Closet of any Physician;</hi> indeed it is so for a <hi>cheating Physician,</hi> for there is not a grain of the <hi>Spirit</hi> or <hi>Salt of Scurvy-grass</hi> in it, only the <hi>nasty Flegm</hi> that spoils the Spi<g ref="char:EOLhyphen"/>rit of Wine. And now I will tell you how he came by it; When he set up for a <hi>Doctor,</hi> he went to several Physicians to beg Receipts of them; and a<g ref="char:EOLhyphen"/>mong the rest he asked Mr. <hi>T. T.</hi> who promised to give him something; but in the mean time imployed him to do his Nativity; to work goes <hi>Par<g ref="char:EOLhyphen"/>ker,</hi> expecting a mighty Reward, and when it was done, carried it to him, who instead of Money paid him in Physical Receipts, of which this <hi>nasty, filthy Infusion</hi> was one of them that helpt to set up our Learned Doctor. By my next I shall give you some more of his Receipts.</p>
+                  <p>Fifthly, I will leave it to all sober regular people to judge if it is not an audacious thing for a Fellow to turn his Wife away, and live publickly with another Woman, and this in the face of the Sun and his own Children, as
+<pb n="17" facs="tcp:52837:9"/> an Example to his Family to do so too when they come to years of Ripeness <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or such things; and you know, youth are too apt to make slight Exam<g ref="char:EOLhyphen"/>ples great Encouragements, especially when they lead to Vice and Plea<g ref="char:EOLhyphen"/>sure. I am very well pleased that the <hi>Jacks</hi> have him on their side; let them try if they can make a Silk Purse of a Sow's Ear.</p>
+                  <lg>
+                     <l>Since Shame and Vertue left their wonted place,</l>
+                     <l>The best Reproofs ne're pierce his brawny Face.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>De Saevitia Nati.</head>
+                  <p>
+                     <hi>Saturn</hi> on his Ascendent in Square to the <hi>Moon in Mundo,</hi> and afflicting the <hi>Sun</hi> also with <hi>Mars</hi>'s assistance, shews the man must be of a Cruel Ty<g ref="char:EOLhyphen"/>rannick Humor and Temper; and so we find him; the Proof's easy.</p>
+                  <p>He hath a Son, a young Youth, that he hath brought up to nothing, and now at last beats him out of Doors, and sends him a begging. Now is not this a shame, that so great a Doctor as he is, should send his own Child a begging, when the great <hi>Urania</hi> is a sufferer by the Scandal, as well as the whole Society.</p>
+                  <lg>
+                     <l>Faith, <hi>George,</hi> 'tis hard; Oh let it not be said,</l>
+                     <l>The great <hi>Urania</hi>'s Grandson begs his Bread.</l>
+                  </lg>
+                  <p>Secondly, That which is almost scandalous to name, but far more base and scandalous to act, and indeed what I cannot mention but with a regret and Unwillingness, and that is, <hi>the Whipping of his Wife;</hi> such a piece of <hi>Barbarity, Cruelty</hi> and <hi>Inhumanity,</hi> that is not to be parallel'd in any one but he that hath bid Defiance to all Modesty and Christian Morals, and took his final Leave of <hi>the Evangelick Rule, Do as you would be done by.</hi> And yet, though he sets up for a <hi>Whipper,</hi> as you see he doth in his Epistle to his Al<g ref="char:EOLhyphen"/>manack, 1697. Commends it in the <hi>Punishment</hi> of Dr. <hi>Oats,</hi> and practiseth it on the <hi>Body</hi> of his <hi>poor Wife,</hi> yet he would be very unwilling to under<g ref="char:EOLhyphen"/>go it himself, and make a plaguy wry Face at the Sight of the Whip. Nay, to shew you that he was not only guilty of whipping her▪ his Friend Mr. <hi>L.</hi> hath told me, He hath seen him throw a handful of Knives at her at a time in her Shop; thus you may see what a cutting Fellow I have to deal with. And you <hi>Good-women,</hi> you are finely fitted with a Whipping Physician, you see; for where he cannot come at your Posteriors, he hath Pills and Pow<g ref="char:EOLhyphen"/>ders to do your business for you otherways.</p>
+                  <lg>
+                     <l>With Whips, (as with Instruments men pull down great Oaks)</l>
+                     <l>If she wont be obed'ent, <hi>George,</hi> have at her B—ks.</l>
+                  </lg>
+                  <p>Thirdly, I must reckon That among his Acts of Cruelty also that he useth to the Wench that lives with him; to do him a service she lent him her Money; and now when she asks him for it, he pays her in Tail, Tallies I mean.</p>
+                  <lg>
+                     <l>What! thrash for your Living? Thus Pleasures abound,</l>
+                     <l>In for a Penny, <hi>George,</hi> in for a Pound.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>De Religione Nati.</head>
+                  <p>Perhaps you will stare at this, that after this black Character I have gi<g ref="char:EOLhyphen"/>ven him, we should now talk of his Religion; pray don't wonder, for his Religion and his Morals are all of a piece, <hi>Mercury</hi> in Opposition to <hi>Jupiter,</hi> and <hi>Saturn</hi> on the Ascendent in a Mundane Square to the <hi>Moon.</hi> The Fel<g ref="char:EOLhyphen"/>low was of a mungrel Perswasion when he was young▪ and so continued till
+<pb n="18" facs="tcp:52837:10"/> the <hi>Sun</hi> came to the Zodiacal Parallel of <hi>Jupiter,</hi> at 24 or 25 years of age; and then, he says, he was all Religion, and might say with the Holy <hi>David, That the zeal of God's house had eaten him up.</hi> At this time the Fel<g ref="char:EOLhyphen"/>low was <hi>something poor,</hi> and he had heard it said, That the <hi>Quakers</hi> were very kind to their <hi>Proselytes,</hi> and did use to support them: So on the for<g ref="char:EOLhyphen"/>mer <hi>Piety,</hi> agitated by the <hi>last motive, George</hi> turns <hi>Quaker,</hi> screws his Face into a regular Shape to be taken notice of, takes up the Terms of <hi>Thee</hi> and <hi>Thou. painted Beast</hi> and <hi>Hireling,</hi> and upon every Opportunity he trudg'd to the <hi>Bull and Mouth.</hi> Now it was he used to say, the <hi>Organs</hi> sounded like <hi>Rams Horns,</hi> and the <hi>Quiristers</hi> made a Noise like the <hi>bl<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ating</hi> of the <hi>Sheep</hi> and <hi>lowing</hi> of the <hi>Oxen.</hi> In this Station <hi>George</hi> continued for some time, still expecting the <hi>golden Shower;</hi> but these subtle <hi>Quakers,</hi> I believe, knew the Fellow by his Countenance, and made no court to the new Proselyte, nor did they down with their Dust. <hi>George</hi> finding nothing came, and being unwilling to serve God for nothing, tacks about, and turns Pinacle-<hi>Churchman;</hi> and then he said the <hi>Organs</hi> and <hi>Quiristers</hi> sounded like the <hi>Hea<g ref="char:EOLhyphen"/>venly Quire,</hi> and he never he<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rd them but he was in a <hi>Rapture.</hi> Thus you see <hi>George</hi> is the s<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me man when his Face is turned to the Altar, as when he is using the Whip, or giving Powders to strengthen the Womb.</p>
+                  <lg>
+                     <l>Observe but his <hi>Sat<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rn,</hi> and hear <hi>Jove</hi>'s Complaint,</l>
+                     <l>You'l judge by his Birth, he's a two handed <hi>Saint.</hi>
+                     </l>
+                  </lg>
+                  <p>But besides this, he can pray too, as you may see by his Almanack for 1696 in his Epistle: <hi>God bless his Majesty King</hi> William, <hi>and every indivi<g ref="char:EOLhyphen"/>dual Person of that Ro<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>al Family, Root and Branch.</hi> As much as if he had said, Pray God bless <hi>Honest John Stow,</hi> that went to <hi>York</hi> last <hi>Monday,</hi> and pray God bless the <hi>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ix High way men</hi> that followed him; now the Question is, Whether he prayed for honest <hi>John</hi> or the High-way▪ men.</p>
+                  <lg>
+                     <l>Invenies passim multos, qui pelle sub agni</l>
+                     <l>Vipereum celant virus, moresque Luporum.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>De Libidine Nati.</head>
+                  <p>The <hi>Moon</hi> is in <hi>Scorpio,</hi> a sensual beastly Sign, the <hi>Sun</hi> Lord of his Ascen<g ref="char:EOLhyphen"/>dent with the <hi>Cauda,</hi> and <hi>Saturn</hi> in a mundane Square to the <hi>Moon</hi> in <hi>Scor<g ref="char:EOLhyphen"/>pio:</hi> These are great Arguments of a Libidinous Nature.</p>
+                  <p>The Proof of this is easy, for the Neighbourhood in <hi>Newgate-street</hi> do not spare to talk largely of his Wife's Maid and he: And when you ask them the particulars, they refer you to Sir <hi>W. T.</hi>'s Clerk, who, they say, can give the best account how often they have been Warrantable about the Business. But we will leave that, and come to the present business, his living with <hi>another Woman</hi> openly; which is a plaguy presumption of some<g ref="char:EOLhyphen"/>thing else at the bottom of it. Yet the worst of all is, they tell you, He used to <hi>make court</hi> to his <hi>Wife's Daughter:</hi> I hope that is the worst of it, tho the people talk unluckily of it, in another Sense; I hope it is not true.</p>
+                  <lg>
+                     <l>Young <hi>Dapper</hi> the <hi>Diver,</hi> the Son of old <hi>Ralph,</hi>
+                     </l>
+                     <l>That turn'd out the Cow to B—r the Calf.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>De Divitiis Nati.</head>
+                  <p>I will not be too much inquisitive into this part of his Affairs, because I would not discourage his endeavours in the World; yet this I will tell him, He hath a very bad position to get an Estate of an hundred a year;
+<pb n="19" facs="tcp:52837:10"/> or keep a place of three hundred, where a Salary is payable; and my Rea<g ref="char:EOLhyphen"/>sons are <hi>Mercury</hi> in Opposition to <hi>Jupiter</hi> from the Second and Eighth, the <hi>Moon</hi> in Square to <hi>Mars Zod.</hi> the <hi>Moon</hi> in Conjunction with the <hi>Part of For<g ref="char:EOLhyphen"/>tune▪</hi> and both in Square to the <hi>Sun</hi> and <hi>Saturn in mundo;</hi> he hath felt the Influence of them already in part; and for what is to come, I will leave to his own Observation; and let the time past serve for its proof, and though he hath an ill position for Riches, yet he hath a good one for a Stock: And now I speak of that, give me leave to say, The Assessors for the <hi>Capitation Act</hi> ought to have assest him for two Stocks, one of Confidence and the other of Kn—y.</p>
+                  <lg>
+                     <l>A <hi>Stock</hi> thou hast, lodg'd in thy <hi>shrivel'd Face,</hi>
+                     </l>
+                     <l>Yet not of Gold, but most <hi>substantial Brass.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>De reliquis Nativitate observandis.</head>
+                  <p>The Nativity is in the general one of the worst and most despicable positions that ever I saw; to have the <hi>Moon</hi> weak in <hi>Scorpio,</hi> with the <hi>Part of Fortune</hi> in Opposition to the Tenth, and in a Mundane Square to <hi>Saturn</hi> and the <hi>Sun▪</hi> must certainly involve a man into <hi>Troubles, Broils</hi> and <hi>Mischiefs,</hi> and keep him always low in the world, and his latter end worst of all; the <hi>Sun,</hi> who is the Author of <hi>Honour</hi> and <hi>Reputation,</hi> is besieged between <hi>Sa<g ref="char:EOLhyphen"/>turn, Mars</hi> and the <hi>Cauda,</hi> must make him always <hi>Scandalous,</hi> subject to <hi>Con<g ref="char:EOLhyphen"/>tempt,</hi> and furnish him with a very <hi>Despicable Reputation.</hi> And the Nativity he makes for himself, with 13 degrees of <hi>Virgo</hi> ascending▪ is a worse Scheme than this is; for there he hath put the <hi>Sun</hi> in the Twelfth, with the <hi>Moon</hi> in Square to <hi>Mars,</hi> and the <hi>Sun</hi> applying; if that be his Nativity, he will never live out of Jail while he lives; for the Twelfth House among the Stars is their <hi>White Fryers</hi> and <hi>Salisbury-Court,</hi> so that in the Figure he gives out, he hath ☉, ♂, ♄ and ☋ all in <hi>White-Fryers,</hi> that is, in the Twelfth House; and therefore I do think it the worst position, but both bad.</p>
+                  <p>I confess I observe one pretty generous thing of him; for in his Alma<g ref="char:EOLhyphen"/>nacks he used to affect a conceited way in writing, using <hi>Us, We, Our, Our<g ref="char:EOLhyphen"/>self,</hi> which was indeed the modestest thing in all his scurrilous Writings; for the Wench that lives with him helps him to calculate his Almanack, and being not arrogant enough to take all the Honour to himself, he lets her share with him; sometimes it is <hi>We,</hi> that is, I and my Wench; then <hi>Our, i e</hi> mine and my Miss's; at another time it is <hi>Us,</hi> I and my W—then <hi>Ourself,</hi> that is, when he had the major part in the business, suppose in Bed.</p>
+                  <p>In a word, it is such a Nativity, that had it been brought to me to have looked over as one unknown, I should have judged it a fit position for a <hi>Clipper,</hi> a <hi>Pick pocket,</hi> an <hi>Informer,</hi> a <hi>Common Barreter,</hi> a <hi>Traytor</hi> to his <hi>King</hi> and <hi>Country,</hi> Ay and his <hi>Master</hi> too; a <hi>Bankrupt,</hi> and a person fit for any thing, though never so unjust and wicked. And I think it would be far more commendable for him, to endeavour to get Bread for his Family▪ in a credible way, and pay his Debts, than to send his Children a begging, and spend his time in wrangling and contending with those that do not meddle nor make with him. And now you see what kind of Enemy I have got to contend with.</p>
+                  <lg>
+                     <l>And must we part, my little mortal Foe;</l>
+                     <l>Great without any thing to to make thee so.</l>
+                     <pb n="20" facs="tcp:52837:11"/>
+                     <l>Great in Conceit, arm'd with some sorry stuff,</l>
+                     <l>Dost, like a <hi>Codpiss Captain,</hi> bounce and huff.</l>
+                     <l>Some Animals, not much unlike to thee,</l>
+                     <l>At nine Days old by Nature come to see;</l>
+                     <l>But thee, thy Stars did for great things design,</l>
+                     <l>And, as a <hi>nobler Beast,</hi> takes longer time.</l>
+                     <l>To <hi>such a Head▪</hi> who would not vail a Cap,</l>
+                     <l>Not <hi>cram'd</hi> with <hi>Brains,</hi> but <hi>Heliocentrick</hi> Pap;</l>
+                     <l>
+                        <hi>A Head!</hi> matcht with a Soul that lets us see,</l>
+                     <l>All <hi>Egypts</hi> ancient Learning's lodg'd in thee;</l>
+                     <l>
+                        <hi>Dubb'd</hi> with a Name that time shall ne're deface▪</l>
+                     <l>And that engrav'd in <hi>monumental Brass,</hi>
+                     </l>
+                     <l>As the true <hi>Emblem</hi> of thy <hi>Face</hi> and Rise;</l>
+                     <l>Not to declare thee vertuous, just or wise,</l>
+                     <l>But to inform us▪ of thy <hi>Birth</hi> and <hi>Race,</hi>
+                     </l>
+                     <l>And when thy Name is us'd we'll <hi>think of Brass.</hi>
+                     </l>
+                     <l>And to relate thy <hi>bruitish Trangums</hi> past</l>
+                     <l>Of which, I see, you'll give a second taste,</l>
+                     <l>And prove a <hi>broken Conjurer</hi> at last.</l>
+                     <l>Dear <hi>George,</hi> farewel, thou hast a rugged▪ task,</l>
+                     <l>Thou little <hi>tumbling, rumbling empty Cask.</hi>
+                     </l>
+                     <l>Once more farewel, with <hi>Har<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y</hi> thy dear Brother,</l>
+                     <l>Who (like two <hi>scabby Golts</hi>) nab one another.</l>
+                  </lg>
+                  <p>Now a man that hath appeared in the world under these Crimes and Cha<g ref="char:EOLhyphen"/>racters of Villany, and yet confidently looks mankind in the Face, he had need be m<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ster of more Impudence than an old Carted Bawd. And to conclude, if any Gentleman of Reputation is so fond of such a Creature, as to patronize him still, after his Parts and Qualities are thus set forth and deciphered, it is pity their dear Friendship should ever be parted. Or if any Community or Society of honourable and noble Persons can think such an infamous Wretch a Credit to them and their Undertakings, it is left to their prudence to consider, when the Shame and Dishonour of such an In<g ref="char:EOLhyphen"/>strument may be as inauspicious as it is reflective to the whole. Since nothing hath been said here (though justly provoked) which will not be made good, and the poor Wretch, if he hath a spark of Modesty yet left, his Conscience must whisper to him that of the Poet,</p>
+                  <q>
+                     <lg>
+                        <l>——<hi>Pudet hac opprobia nobis,</hi>
+                        </l>
+                        <l>
+                           <hi>Et dici potuisse, &amp; non potuisse refelli.</hi>
+                        </l>
+                     </lg>
+                  </q>
+                  <p>As for the man in <hi>Baldwins-Gardens,</hi> I must step to <hi>Pancrass</hi> to the <hi>Old Wo<g ref="char:EOLhyphen"/>man, Y<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>leeped</hi> a <hi>House-keep<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r,</hi> and ask her who it was gave her the <hi>Ulcer</hi> in her Threat, of which she dyed? and whether it was of <hi>French growth or not?</hi> and then in a <hi>Dialogue</hi> between a <hi>Pick▪pocket</hi> and a <hi>Sigil-maker,</hi> con<g ref="char:EOLhyphen"/>tending for the Honesty of their Trades, I will give the world an account of him, as a Reward for endeavouring to set people together by the Ears.</p>
+               </div>
+            </div>
+            <trailer>FINIS.
+<pb facs="tcp:52837:11"/>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
